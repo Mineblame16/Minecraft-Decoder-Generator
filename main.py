@@ -37,7 +37,7 @@ def generate_decoder(n_bits):
             schem.setBlock((1, y - 2, z_decoder), "minecraft:white_stained_glass")
     
     # Save the schematic
-    schem.save("./", "decoder_with_gap", mcschematic.Version.JE_1_20)
+    schem.save("./", "decoder", mcschematic.Version.JE_1_20)
 
 # Example usage
 generate_decoder(3)
