@@ -1,3 +1,5 @@
+WARN: This project was vibe coded
+
 # Minecraft Decoder Generator
 
 This project is a Python script that generates a Minecraft decoder schematic using the `mcschematic` library. The script allows you to create a redstone decoder dynamically based on the number of bits you specify. It uses redstone wires, wool, redstone repeaters, and redstone torches to construct the decoder.
